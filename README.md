@@ -5,6 +5,9 @@ I am a software developer from New York with a passion for making useful project
 ### Connect with me:
 [<img align="left" alt="ryanbrwr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="ryanbrwr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ryanbrwr | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+[<img align="left" alt="ryanbrwr | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
+
 
 <br />
 
@@ -30,4 +33,6 @@ I am a software developer from New York with a passion for making useful project
 [opal]: https://github.com/ryanbrwr/opal
 [twitter]: https://twitter.com/ryanbrwr
 [linkedin]: https://www.linkedin.com/in/ryanbrew/
+[discord]: https://discord.gg/qhBf74Pccb
+[twitch]: https://twitch.tv/u/ryanbrwr
 [rose.ai]: https://rose.ai
