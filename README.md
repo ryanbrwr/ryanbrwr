@@ -34,5 +34,5 @@ I am a software developer from New York with a passion for making useful project
 [twitter]: https://twitter.com/ryanbrwr
 [linkedin]: https://www.linkedin.com/in/ryanbrew/
 [discord]: https://discord.gg/qhBf74Pccb
-[twitch]: https://twitch.tv/u/ryanbrwr
+[twitch]: https://www.twitch.tv/ryanbrwr/
 [rose.ai]: https://rose.ai
