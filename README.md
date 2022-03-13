@@ -27,9 +27,6 @@ I am a software developer from New York with a passion for making useful project
 <br />
 
 ![Ryan's github stats]
-<div class="container" align="center">
-   <h1>hi, im jack.</h1>
-<tr>
 <td>
    <img src="https://github-readme-stats.vercel.app/api?username=ryanbrwr&theme=chartreuse-light&count_private=true" />
 </td>
