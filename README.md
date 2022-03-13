@@ -1,6 +1,6 @@
 ### Hi there, I'm Ryan 👋
 
-I am a software developer from New York with a passion for making useful projects. I graduated high school in June of 2020 from Bay Shore Senior High School and will be attending Johns Hopkins University with the class of 2025. Currently I work for a financial data company called [rose.ai][rose.ai] where I do frontend web development. 
+I am a freshman CS major at Johns Hopkins University with a passion for making useful projects. Currently I'm working on Dialect, a next-generation programming help platform. 
 
 ### Connect with me:
 [<img align="left" alt="ryanbrwr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -26,7 +26,6 @@ I am a software developer from New York with a passion for making useful project
 <br />
 <br />
 
-![Ryan's github stats]
 <td>
    <img src="https://github-readme-stats.vercel.app/api?username=ryanbrwr&theme=chartreuse-light&count_private=true" />
 </td>
